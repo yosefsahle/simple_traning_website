@@ -1,0 +1,10 @@
+this is a simple html project for you to train 
+
+How to start working
+
+Step 1 - Check the Ui Resource Folder to get the ui 
+step 2 - try to understand how you should implement it to html structure
+step 3 - build the html structure 
+step 4 - implement css(style) to your html structure
+
+Dont Forget to Push Your Works to this Repo
